@@ -1,4 +1,4 @@
-DADGAD hej från både master och feature-text
+DADGAD 
 Är en bra stämning för gitarrer
 Så du borde byta, nu!
-Annars kommer det låta dåligt
+Annars kommer det låta mycket dåligt
